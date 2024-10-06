@@ -1,0 +1,50 @@
+.block {
+  border: 4px solid black;
+  box-sizing: border-box;
+  height: 100px;
+  width: 100px;
+}
+
+.line {
+  display: flex;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.crimson {
+  background-color: crimson;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.chocolate {
+  background-color: chocolate;
+}
+
+.darkblue {
+  background-color: darkblue;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.indianred {
+  background-color: indianred;
+}
